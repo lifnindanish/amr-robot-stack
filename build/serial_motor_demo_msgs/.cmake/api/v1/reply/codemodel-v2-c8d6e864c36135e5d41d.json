@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e227c79567be0c231b6a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "serial_motor_demo_msgs__py",
+					"jsonFile" : "directory-serial_motor_demo_msgs__py-988c5873eeddfc56f02b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo_msgs/serial_motor_demo_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "serial_motor_demo_msgs__rs",
+					"jsonFile" : "directory-serial_motor_demo_msgs__rs-39d4810a297918164bc3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo_msgs/serial_motor_demo_msgs__rs",
+					"targetIndexes" : 
+					[
+						16
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "serial_motor_demo_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_serial_motor_demo_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_serial_motor_demo_msgs_egg-9550114df9784f0ceb5d.json",
+					"name" : "ament_cmake_python_build_serial_motor_demo_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_serial_motor_demo_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_serial_motor_demo_msgs-5263909c2d491cd802d2.json",
+					"name" : "ament_cmake_python_copy_serial_motor_demo_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs-265387bc144304e95786.json",
+					"name" : "serial_motor_demo_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__cpp-50e5eb7257a082d55dfe.json",
+					"name" : "serial_motor_demo_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "serial_motor_demo_msgs__py::@593108ce96a6b0e1e25b",
+					"jsonFile" : "target-serial_motor_demo_msgs__py-3d1037c2dec2f90e85ba.json",
+					"name" : "serial_motor_demo_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_generator_c-75d6dd149e6ea3438162.json",
+					"name" : "serial_motor_demo_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_generator_py-3939b0ff75a9e3f2b094.json",
+					"name" : "serial_motor_demo_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_c-5164f3be3fd5177e594a.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_c__pyext-7f28f184cdae947c3848.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_cpp-b735e1fb5a4cab46d5c4.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c-36d2b7565eebced285a3.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c__pyext-5e573abc46a4381139c1.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp-3e9792bd8e6da458b40c.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_introspection_c-fdbc4b7da6796cf33e1f.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_introspection_c__pyext-25a769102c180a96e3e2.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs__rosidl_typesupport_introspection_cpp-0e3095f7e419b5e20497.json",
+					"name" : "serial_motor_demo_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "serial_motor_demo_msgs__rs::@50a95d11858621907f1d",
+					"jsonFile" : "target-serial_motor_demo_msgs__rs-98a1deb5263660b35d74.json",
+					"name" : "serial_motor_demo_msgs__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_motor_demo_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_motor_demo_msgs_uninstall-8e3a9744753c572a062c.json",
+					"name" : "serial_motor_demo_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-c19bd17f23992f8d7ab8.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo_msgs",
+		"source" : "/home/danish/Downloads/Auto--Agesis-main/src/serial_motor_demo/serial_motor_demo_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,37 @@
+[0.575s] Invoking command in '/home/danish/Downloads/Auto--Agesis-main/src/ros2_streamer': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_streamer build --build-base /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build install --record /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/install.log --single-version-externally-managed install_data
+[0.753s] running egg_info
+[0.753s] creating ../../build/ros2_streamer/ros2_streamer.egg-info
+[0.764s] writing ../../build/ros2_streamer/ros2_streamer.egg-info/PKG-INFO
+[0.764s] writing dependency_links to ../../build/ros2_streamer/ros2_streamer.egg-info/dependency_links.txt
+[0.764s] writing entry points to ../../build/ros2_streamer/ros2_streamer.egg-info/entry_points.txt
+[0.765s] writing requirements to ../../build/ros2_streamer/ros2_streamer.egg-info/requires.txt
+[0.765s] writing top-level names to ../../build/ros2_streamer/ros2_streamer.egg-info/top_level.txt
+[0.765s] writing manifest file '../../build/ros2_streamer/ros2_streamer.egg-info/SOURCES.txt'
+[0.788s] reading manifest file '../../build/ros2_streamer/ros2_streamer.egg-info/SOURCES.txt'
+[0.789s] writing manifest file '../../build/ros2_streamer/ros2_streamer.egg-info/SOURCES.txt'
+[0.789s] running build
+[0.789s] running build_py
+[0.789s] creating /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build
+[0.789s] creating /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build/lib
+[0.789s] creating /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build/lib/ros2_streamer
+[0.789s] copying ros2_streamer/__init__.py -> /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build/lib/ros2_streamer
+[0.789s] copying ros2_streamer/ros2_ffmpeg_streamer.py -> /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build/lib/ros2_streamer
+[0.790s] running install
+[0.794s] running install_lib
+[0.805s] creating /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/python3.10/site-packages/ros2_streamer
+[0.806s] copying /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build/lib/ros2_streamer/__init__.py -> /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/python3.10/site-packages/ros2_streamer
+[0.806s] copying /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build/lib/ros2_streamer/ros2_ffmpeg_streamer.py -> /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/python3.10/site-packages/ros2_streamer
+[0.806s] byte-compiling /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/python3.10/site-packages/ros2_streamer/__init__.py to __init__.cpython-310.pyc
+[0.806s] byte-compiling /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/python3.10/site-packages/ros2_streamer/ros2_ffmpeg_streamer.py to ros2_ffmpeg_streamer.cpython-310.pyc
+[0.807s] running install_data
+[0.807s] creating /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/share/ament_index
+[0.807s] creating /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/share/ament_index/resource_index
+[0.807s] creating /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/share/ament_index/resource_index/packages
+[0.807s] copying resource/ros2_streamer -> /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/share/ament_index/resource_index/packages
+[0.807s] copying package.xml -> /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/share/ros2_streamer
+[0.807s] running install_egg_info
+[0.820s] Copying ../../build/ros2_streamer/ros2_streamer.egg-info to /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/python3.10/site-packages/ros2_streamer-0.0.1-py3.10.egg-info
+[0.821s] running install_scripts
+[0.931s] Installing ros2_ffmpeg_streamer script to /home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/ros2_streamer
+[0.932s] writing list of installed files to '/home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/install.log'
+[0.952s] Invoked command in '/home/danish/Downloads/Auto--Agesis-main/src/ros2_streamer' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danish/Downloads/Auto--Agesis-main/install/ros2_streamer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_streamer build --build-base /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/build install --record /home/danish/Downloads/Auto--Agesis-main/build/ros2_streamer/install.log --single-version-externally-managed install_data

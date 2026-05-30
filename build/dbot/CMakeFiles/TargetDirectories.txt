@@ -1,0 +1,9 @@
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/uninstall.dir
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/dbot_uninstall.dir
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/test.dir
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/edit_cache.dir
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/rebuild_cache.dir
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/list_install_components.dir
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/install.dir
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/install/local.dir
+/home/danish/Downloads/Auto--Agesis-main/build/dbot/CMakeFiles/install/strip.dir

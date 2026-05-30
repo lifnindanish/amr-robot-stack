@@ -1,0 +1,41 @@
+[0.549s] Invoking command in '/home/danish/Downloads/Auto--Agesis-main/src/serial_motor_demo/serial_motor_demo': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/serial_motor_demo build --build-base /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build install --record /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/install.log --single-version-externally-managed install_data
+[0.722s] running egg_info
+[0.722s] creating ../../../build/serial_motor_demo/serial_motor_demo.egg-info
+[0.733s] writing ../../../build/serial_motor_demo/serial_motor_demo.egg-info/PKG-INFO
+[0.733s] writing dependency_links to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/dependency_links.txt
+[0.734s] writing entry points to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/entry_points.txt
+[0.734s] writing requirements to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/requires.txt
+[0.734s] writing top-level names to ../../../build/serial_motor_demo/serial_motor_demo.egg-info/top_level.txt
+[0.734s] writing manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[0.756s] reading manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[0.757s] writing manifest file '../../../build/serial_motor_demo/serial_motor_demo.egg-info/SOURCES.txt'
+[0.757s] running build
+[0.757s] running build_py
+[0.757s] creating /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build
+[0.757s] creating /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build/lib
+[0.757s] creating /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build/lib/serial_motor_demo
+[0.758s] copying serial_motor_demo/__init__.py -> /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build/lib/serial_motor_demo
+[0.758s] copying serial_motor_demo/driver.py -> /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build/lib/serial_motor_demo
+[0.758s] copying serial_motor_demo/gui.py -> /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build/lib/serial_motor_demo
+[0.758s] running install
+[0.762s] running install_lib
+[0.773s] creating /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[0.774s] copying /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build/lib/serial_motor_demo/__init__.py -> /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[0.774s] copying /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build/lib/serial_motor_demo/driver.py -> /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[0.774s] copying /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build/lib/serial_motor_demo/gui.py -> /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo
+[0.774s] byte-compiling /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/__init__.py to __init__.cpython-310.pyc
+[0.774s] byte-compiling /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/driver.py to driver.cpython-310.pyc
+[0.775s] byte-compiling /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo/gui.py to gui.cpython-310.pyc
+[0.776s] running install_data
+[0.776s] creating /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/share/ament_index
+[0.777s] creating /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/share/ament_index/resource_index
+[0.777s] creating /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/share/ament_index/resource_index/packages
+[0.777s] copying resource/serial_motor_demo -> /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/share/ament_index/resource_index/packages
+[0.777s] copying package.xml -> /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/share/serial_motor_demo
+[0.777s] running install_egg_info
+[0.789s] Copying ../../../build/serial_motor_demo/serial_motor_demo.egg-info to /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages/serial_motor_demo-0.0.0-py3.10.egg-info
+[0.790s] running install_scripts
+[0.899s] Installing driver script to /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/serial_motor_demo
+[0.899s] Installing gui script to /home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/serial_motor_demo
+[0.900s] writing list of installed files to '/home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/install.log'
+[0.917s] Invoked command in '/home/danish/Downloads/Auto--Agesis-main/src/serial_motor_demo/serial_motor_demo' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/danish/Downloads/Auto--Agesis-main/install/serial_motor_demo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/serial_motor_demo build --build-base /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/build install --record /home/danish/Downloads/Auto--Agesis-main/build/serial_motor_demo/install.log --single-version-externally-managed install_data
